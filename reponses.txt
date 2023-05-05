@@ -1,7 +1,7 @@
 a) Git fetch est une alternative plus sûre car il récupère tous les commits de votre télécommande mais n'apporte aucune modification à vos fichiers locaux. D'un autre côté, Git pull est plus rapide car vous effectuez plusieurs actions en une seule - un meilleur rapport qualité-prix.
-b) Pour annuler les modification locales non validées dans Git il faut
-c) Pour supprimer une branche distante dans Git
-d) Pour voir l'historique des modifications pour un fichier spécifiques dans Git
+b) Pour annuler les modification locales non validées dans Git il faut utiliser la commande "git checkout."pour reinitialiser tous les fichiers
+c) Pour supprimer une branche distante dans Git il faut utiliser la commande "git push" avec l'option "delete" suivi du nom de la branche
+d) Pour voir l'historique des modifications pour un fichier spécifique dans Git il faut la commande "git log" avec le chemin du fichier
 
 
  
